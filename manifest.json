@@ -1,7 +1,7 @@
 {
   "name": "SmartSeller",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/",
+  "website_url": "https://github.com/IlDottore2nd/SmartSeller/",
   "description": "Sell scrap based on a target value directly from the terminal.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
